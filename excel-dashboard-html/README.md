@@ -59,4 +59,4 @@ excel-dashboard-html/
 python3 ~/.codex/skills/.system/skill-creator/scripts/quick_validate.py excel-dashboard-html
 ```
 
-如果输出 `Skill is valid!`，说明 skill 的基础结构有效。
+如果输出 `Skill is valid!`，说明 skill 的基础结构有效.
