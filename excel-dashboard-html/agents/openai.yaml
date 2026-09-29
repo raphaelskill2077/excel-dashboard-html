@@ -1,0 +1,4 @@
+interface:
+  display_name: "Excel Dashboard HTML"
+  short_description: "先分析 Excel 数据，再生成兼具鲜明设计与动态图表的交互式 HTML 看板"
+  default_prompt: "使用 $excel-dashboard-html 将我的 Excel 转成交互式 HTML 看板，先明确分析重点，再设计真实数据预览与动态图表。"
